@@ -1,0 +1,16 @@
+name: 日本語アクセント
+congradulate-card: 
+  title: おめでとう
+  definition: |+
+     congratulations! 
+     you've now completed an entire set
+flashcards:
+- title: こと（事）
+  reveal: こと＼・こ＼と
+- title: やつ（奴）
+  reveal: や＼つ
+- title: もの（物・者）
+  reveal: もの＼
+- title: <ruby>音楽<rp>(</rp><rt>おんがく</rt><rp>)</rp>
+  reveal: お＼んがく・おんがく￣
+ 
