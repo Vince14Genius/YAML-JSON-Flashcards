@@ -1,9 +1,4 @@
 name: 日本語アクセント
-congradulate-card: 
-  title: おめでとう
-  reveal: |+
-     congratulations! 
-     you've now completed an entire set
 flashcards:
 - title: こと（事）
   reveal: こと＼・こ＼と
