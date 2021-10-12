@@ -1,7 +1,7 @@
 name: 日本語アクセント
 congradulate-card: 
   title: おめでとう
-  definition: |+
+  reveal: |+
      congratulations! 
      you've now completed an entire set
 flashcards:
@@ -11,7 +11,7 @@ flashcards:
   reveal: や＼つ
 - title: もの（物・者）
   reveal: もの＼
-- title: <ruby>音楽<rp>(</rp><rt>おんがく</rt><rp>)</rp>
+- title: 音楽
   reveal: お＼んがく・おんがく￣
 - title: とき（時）
   reveal: とき＼
@@ -73,4 +73,51 @@ flashcards:
   reveal: しば＼らく
 - title: 野宿
   reveal: の＼じゅく
-  
+- title: 荷物
+  reveal: に＼もつ
+- title: 整理
+  reveal: せ＼いり
+- title: 実際
+  reveal: じっさい￣
+- title: 儀式
+  reveal: ぎ＼しき
+- title: 教祖
+  reveal: きょ＼うそ
+- title: 能力
+  reveal: の＼うりょく
+- title: 迷子
+  reveal: ま＼いご
+- title: 返事
+  reveal: へんじ＼
+- title: 文章
+  reveal: ぶ＼んしょう
+- title: 区別
+  reveal: く＼べつ
+- title: そのとき
+  reveal: そのと＼き・そのとき＼
+- title: 人物
+  reveal: じ＼んぶつ
+- title: 無口
+  reveal: む＼くち
+- title: レベル
+  reveal: レ＼ベル・レベル￣
+- title: 布
+  reveal: ぬの￣
+- title: 首
+  reveal: くび￣
+- title: 傾ぐ
+  reveal: かし＼ぐ
+- title: 擦る
+  reveal: こす＼る
+- title: 用いる
+  reveal: もちい＼る・もちいる￣
+- title: 縮む
+  reveal: ちぢむ￣
+- title: 縮める
+  reveal: ちぢめる￣
+- title: 拾う
+  reveal: ひろう￣
+- title: 躊躇う
+  reveal: ためら＼う
+- title: 頷く
+  reveal: うなず＼く・うなずく￣
