@@ -1,0 +1,485 @@
+{
+    "name": "Toki Pona Vocabulary",
+    "flashcards": [
+        {
+            "title": "a or kin",
+            "reveal": "PARTICLE  (emphasis, emotion or confirmation)"
+        },
+        {
+            "title": "akesi",
+            "reveal": "NOUN  non-cute animal; reptile, amphibian"
+        },
+        {
+            "title": "ala",
+            "reveal": "ADJECTIVE  no, not, zero"
+        },
+        {
+            "title": "alasa",
+            "reveal": "VERB  to hunt, forage"
+        },
+        {
+            "title": "ale or ali",
+            "reveal": "ADJECTIVE  all; abundant, countless, bountiful, every, plentiful\nNOUN  abundance, everything, life, universe\nNUMBER  100"
+        },
+        {
+            "title": "anpa",
+            "reveal": "ADJECTIVE  bowing down, downward, humble, lowly, dependent"
+        },
+        {
+            "title": "ante",
+            "reveal": "ADJECTIVE  different, altered, changed, other"
+        },
+        {
+            "title": "anu",
+            "reveal": "PARTICLE  or"
+        },
+        {
+            "title": "awen",
+            "reveal": "ADJECTIVE  enduring, kept, protected, safe, waiting, staying\nPRE-VERB  to continue to"
+        },
+        {
+            "title": "e",
+            "reveal": "PARTICLE  (before the direct object)"
+        },
+        {
+            "title": "en",
+            "reveal": "PARTICLE  (between multiple subjects)"
+        },
+        {
+            "title": "esun",
+            "reveal": "NOUN  market, shop, fair, bazaar, business transaction"
+        },
+        {
+            "title": "ijo",
+            "reveal": "NOUN  thing, phenomenon, object, matter"
+        },
+        {
+            "title": "ike",
+            "reveal": "ADJECTIVE  bad, negative; non-essential, irrelevant"
+        },
+        {
+            "title": "ilo",
+            "reveal": "NOUN  tool, implement, machine, device"
+        },
+        {
+            "title": "insa",
+            "reveal": "NOUN  centre, content, inside, between; internal organ, stomach"
+        },
+        {
+            "title": "jaki",
+            "reveal": "ADJECTIVE  disgusting, obscene, sickly, toxic, unclean, unsanitary"
+        },
+        {
+            "title": "jan",
+            "reveal": "NOUN  human being, person, somebody"
+        },
+        {
+            "title": "jelo",
+            "reveal": "ADJECTIVE  yellow, yellowish"
+        },
+        {
+            "title": "jo",
+            "reveal": "VERB  to have, carry, contain, hold"
+        },
+        {
+            "title": "kala",
+            "reveal": "NOUN  fish, marine animal, sea creature"
+        },
+        {
+            "title": "kalama",
+            "reveal": "VERB  to produce a sound; recite, utter aloud"
+        },
+        {
+            "title": "kama",
+            "reveal": "ADJECTIVE  arriving, coming, future, summoned\nPRE-VERB  to become, manage to, succeed in"
+        },
+        {
+            "title": "kasi",
+            "reveal": "NOUN  plant, vegetation; herb, leaf"
+        },
+        {
+            "title": "ken",
+            "reveal": "PRE-VERB  to be able to, be allowed to, can, may\nADJECTIVE  possible"
+        },
+        {
+            "title": "kepeken",
+            "reveal": "PREPOSITION  to use, with, by means of"
+        },
+        {
+            "title": "kili",
+            "reveal": "NOUN  fruit, vegetable, mushroom"
+        },
+        {
+            "title": "kiwen",
+            "reveal": "NOUN  hard object, metal, rock, stone"
+        },
+        {
+            "title": "ko",
+            "reveal": "NOUN  clay, clinging form, dough, semi-solid, paste, powder"
+        },
+        {
+            "title": "kon",
+            "reveal": "NOUN  air, breath; essence, spirit; hidden reality, unseen agent"
+        },
+        {
+            "title": "kule",
+            "reveal": "ADJECTIVE  colourful, pigmented, painted"
+        },
+        {
+            "title": "kulupu",
+            "reveal": "NOUN  community, company, group, nation, society, tribe"
+        },
+        {
+            "title": "kute",
+            "reveal": "NOUN  ear\nVERB  to hear, listen; pay attention to, obey"
+        },
+        {
+            "title": "la",
+            "reveal": "PARTICLE  (between the context phrase and the main sentence)"
+        },
+        {
+            "title": "lape",
+            "reveal": "ADJECTIVE  sleeping, resting"
+        },
+        {
+            "title": "laso",
+            "reveal": "ADJECTIVE  blue, green"
+        },
+        {
+            "title": "lawa",
+            "reveal": "NOUN  head, mind\nVERB  to control, direct, guide, lead, own, plan, regulate, rule"
+        },
+        {
+            "title": "len",
+            "reveal": "NOUN  cloth, clothing, fabric, textile; cover, layer of privacy"
+        },
+        {
+            "title": "lete",
+            "reveal": "ADJECTIVE  cold, cool; uncooked, raw"
+        },
+        {
+            "title": "li",
+            "reveal": "PARTICLE  (between any subject except mi alone or sina alone and its verb; also to introduce a new verb for the same subject)"
+        },
+        {
+            "title": "lili",
+            "reveal": "ADJECTIVE  little, small, short; few; a bit; young"
+        },
+        {
+            "title": "linja",
+            "reveal": "NOUN  long and flexible thing; cord, hair, rope, thread, yarn"
+        },
+        {
+            "title": "lipu",
+            "reveal": "NOUN  flat object; book, document, card, paper, record, website"
+        },
+        {
+            "title": "loje",
+            "reveal": "ADJECTIVE  red, reddish"
+        },
+        {
+            "title": "lon",
+            "reveal": "PREPOSITION  located at, present at, real, true, existing"
+        },
+        {
+            "title": "luka",
+            "reveal": "NOUN  arm, hand, tactile organ\nNUMBER  five"
+        },
+        {
+            "title": "lukin or oko",
+            "reveal": "NOUN  eye\nVERB  to look at, see, examine, observe, read, watch\nPRE-VERB  to seek, look for, try to"
+        },
+        {
+            "title": "lupa",
+            "reveal": "NOUN  door, hole, orifice, window"
+        },
+        {
+            "title": "ma",
+            "reveal": "NOUN  earth, land; outdoors, world; country, territory; soil"
+        },
+        {
+            "title": "mama",
+            "reveal": "NOUN  parent, ancestor; creator, originator; caretaker, sustainer"
+        },
+        {
+            "title": "mani",
+            "reveal": "NOUN  money, cash, savings, wealth; large domesticated animal"
+        },
+        {
+            "title": "meli",
+            "reveal": "NOUN  woman, female, feminine person; wife"
+        },
+        {
+            "title": "mi",
+            "reveal": "NOUN  I, me, we, us"
+        },
+        {
+            "title": "mije",
+            "reveal": "NOUN  man, male, masculine person; husband"
+        },
+        {
+            "title": "moku",
+            "reveal": "VERB  to eat, drink, consume, swallow, ingest"
+        },
+        {
+            "title": "moli",
+            "reveal": "ADJECTIVE  dead, dying"
+        },
+        {
+            "title": "monsi",
+            "reveal": "NOUN  back, behind, rear"
+        },
+        {
+            "title": "mu",
+            "reveal": "PARTICLE  (animal noise or communication)"
+        },
+        {
+            "title": "mun",
+            "reveal": "NOUN  moon, night sky object, star"
+        },
+        {
+            "title": "musi",
+            "reveal": "ADJECTIVE  artistic, entertaining, frivolous, playful, recreational"
+        },
+        {
+            "title": "mute",
+            "reveal": "ADJECTIVE  many, a lot, more, much, several, very\nNOUN  quantity"
+        },
+        {
+            "title": "nanpa",
+            "reveal": "PARTICLE  -th (ordinal number)\nNOUN  numbers"
+        },
+        {
+            "title": "nasa",
+            "reveal": "ADJECTIVE  unusual, strange; foolish, crazy; drunk, intoxicated"
+        },
+        {
+            "title": "nasin",
+            "reveal": "NOUN  way, custom, doctrine, method, path, road"
+        },
+        {
+            "title": "nena",
+            "reveal": "NOUN  bump, button, hill, mountain, nose, protuberance"
+        },
+        {
+            "title": "ni",
+            "reveal": "ADJECTIVE  that, this"
+        },
+        {
+            "title": "nimi",
+            "reveal": "NOUN  name, word"
+        },
+        {
+            "title": "noka",
+            "reveal": "NOUN  foot, leg, organ of locomotion; bottom, lower part"
+        },
+        {
+            "title": "o",
+            "reveal": "PARTICLE  hey! O! (vocative or imperative)"
+        },
+        {
+            "title": "olin",
+            "reveal": "VERB  to love, have compassion for, respect, show affection to"
+        },
+        {
+            "title": "ona",
+            "reveal": "NOUN  he, she, it, they"
+        },
+        {
+            "title": "open",
+            "reveal": "VERB  to begin, start; open; turn on"
+        },
+        {
+            "title": "pakala",
+            "reveal": "ADJECTIVE  botched, broken, damaged, harmed, messed up"
+        },
+        {
+            "title": "pali",
+            "reveal": "VERB  to do, take action on, work on; build, make, prepare"
+        },
+        {
+            "title": "palisa",
+            "reveal": "NOUN  long hard thing; branch, rod, stick"
+        },
+        {
+            "title": "pan",
+            "reveal": "NOUN  cereal, grain; barley, corn, oat, rice, wheat; bread, pasta"
+        },
+        {
+            "title": "pana",
+            "reveal": "VERB  to give, send, emit, provide, put, release"
+        },
+        {
+            "title": "pi",
+            "reveal": "PARTICLE  of"
+        },
+        {
+            "title": "pilin",
+            "reveal": "NOUN  heart (physical or emotional)\nADJECTIVE  feeling (an emotion, a direct experience)"
+        },
+        {
+            "title": "pimeja",
+            "reveal": "ADJECTIVE  black, dark, unlit"
+        },
+        {
+            "title": "pini",
+            "reveal": "ADJECTIVE  ago, completed, ended, finished, past"
+        },
+        {
+            "title": "pipi",
+            "reveal": "NOUN  bug, insect, ant, spider"
+        },
+        {
+            "title": "poka",
+            "reveal": "NOUN  hip, side; next to, nearby, vicinity"
+        },
+        {
+            "title": "poki",
+            "reveal": "NOUN  container, bag, bowl, box, cup, cupboard, drawer, vessel"
+        },
+        {
+            "title": "pona",
+            "reveal": "ADJECTIVE  good, positive, useful; friendly, peaceful; simple"
+        },
+        {
+            "title": "pu",
+            "reveal": "ADJECTIVE  interacting with the official Toki Pona book"
+        },
+        {
+            "title": "sama",
+            "reveal": "ADJECTIVE  same, similar; each other; sibling, peer, fellow\nPREPOSITION  as, like"
+        },
+        {
+            "title": "seli",
+            "reveal": "ADJECTIVE  fire; cooking element, chemical reaction, heat source"
+        },
+        {
+            "title": "selo",
+            "reveal": "NOUN  outer form, outer layer; bark, peel, shell, skin; boundary"
+        },
+        {
+            "title": "seme",
+            "reveal": "PARTICLE  what? which?"
+        },
+        {
+            "title": "sewi",
+            "reveal": "NOUN  area above, highest part, something elevated\nADJECTIVE  awe-inspiring, divine, sacred, supernatural"
+        },
+        {
+            "title": "sijelo",
+            "reveal": "NOUN  body (of person or animal), physical state, torso"
+        },
+        {
+            "title": "sike",
+            "reveal": "NOUN  round or circular thing; ball, circle, cycle, sphere, wheel\nADJECTIVE  of one year"
+        },
+        {
+            "title": "sin or namako",
+            "reveal": "ADJECTIVE  new, fresh; additional, another, extra"
+        },
+        {
+            "title": "sina",
+            "reveal": "NOUN  you"
+        },
+        {
+            "title": "sinpin",
+            "reveal": "NOUN  face, foremost, front, wall"
+        },
+        {
+            "title": "sitelen",
+            "reveal": "NOUN  image, picture, representation, symbol, mark, writing"
+        },
+        {
+            "title": "sona",
+            "reveal": "VERB  to know, be skilled in, be wise about, have information on\nPRE-VERB  to know how to"
+        },
+        {
+            "title": "soweli",
+            "reveal": "NOUN  animal, beast, land mammal"
+        },
+        {
+            "title": "suli",
+            "reveal": "ADJECTIVE  big, heavy, large, long, tall; important; adult"
+        },
+        {
+            "title": "suno",
+            "reveal": "NOUN  sun; light, brightness, glow, radiance, shine; light source"
+        },
+        {
+            "title": "supa",
+            "reveal": "NOUN  horizontal surface, thing to put or rest something on"
+        },
+        {
+            "title": "suwi",
+            "reveal": "ADJECTIVE  sweet, fragrant; cute, innocent, adorable"
+        },
+        {
+            "title": "tan",
+            "reveal": "PREPOSITION  by, from, because of"
+        },
+        {
+            "title": "taso",
+            "reveal": "PARTICLE  but, however\nADJECTIVE  only"
+        },
+        {
+            "title": "tawa",
+            "reveal": "PREPOSITION  going to, toward; for; from the perspective of\nADJECTIVE  moving"
+        },
+        {
+            "title": "telo",
+            "reveal": "NOUN  water, liquid, fluid, wet substance; beverage"
+        },
+        {
+            "title": "tenpo",
+            "reveal": "NOUN  time, duration, moment, occasion, period, situation"
+        },
+        {
+            "title": "toki",
+            "reveal": "VERB  to communicate, say, speak, say, talk, use language, think"
+        },
+        {
+            "title": "tomo",
+            "reveal": "NOUN  indoor space; building, home, house, room"
+        },
+        {
+            "title": "tu",
+            "reveal": "NUMBER  two"
+        },
+        {
+            "title": "unpa",
+            "reveal": "VERB  to have sexual or marital relations with"
+        },
+        {
+            "title": "uta",
+            "reveal": "NOUN  mouth, lips, oral cavity, jaw"
+        },
+        {
+            "title": "utala",
+            "reveal": "VERB  to battle, challenge, compete against, struggle against"
+        },
+        {
+            "title": "walo",
+            "reveal": "ADJECTIVE  white, whitish; light-coloured, pale"
+        },
+        {
+            "title": "wan",
+            "reveal": "ADJECTIVE  unique, united\nNUMBER  one"
+        },
+        {
+            "title": "waso",
+            "reveal": "NOUN  bird, flying creature, winged animal"
+        },
+        {
+            "title": "wawa",
+            "reveal": "ADJECTIVE  strong, powerful; confident, sure; energetic, intense"
+        },
+        {
+            "title": "weka",
+            "reveal": "ADJECTIVE  absent, away, ignored"
+        },
+        {
+            "title": "wile",
+            "reveal": "PRE-VERB  must, need, require, should, want, wish"
+        }
+    ]
+}
