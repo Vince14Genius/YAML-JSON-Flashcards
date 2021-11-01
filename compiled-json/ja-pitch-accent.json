@@ -1,245 +1,245 @@
 {
-   "name": "日本語アクセント",
-   "flashcards": [
-      {
-         "title": "こと（事）",
-         "reveal": "こと＼・こ＼と"
-      },
-      {
-         "title": "やつ（奴）",
-         "reveal": "や＼つ"
-      },
-      {
-         "title": "もの（物・者）",
-         "reveal": "もの＼"
-      },
-      {
-         "title": "音楽",
-         "reveal": "お＼んがく・おんがく￣"
-      },
-      {
-         "title": "とき（時）",
-         "reveal": "とき＼"
-      },
-      {
-         "title": "先",
-         "reveal": "さき￣"
-      },
-      {
-         "title": "道",
-         "reveal": "みち￣"
-      },
-      {
-         "title": "進める",
-         "reveal": "すすめる￣"
-      },
-      {
-         "title": "却下",
-         "reveal": "きゃ＼っか"
-      },
-      {
-         "title": "敵",
-         "reveal": "てき￣"
-      },
-      {
-         "title": "たまご（卵・玉子）",
-         "reveal": "たま＼ご・たまご￣"
-      },
-      {
-         "title": "様子",
-         "reveal": "ようす￣"
-      },
-      {
-         "title": "気付く",
-         "reveal": "きづ＼く"
-      },
-      {
-         "title": "向く",
-         "reveal": "むく￣"
-      },
-      {
-         "title": "向かう",
-         "reveal": "むかう￣"
-      },
-      {
-         "title": "牙",
-         "reveal": "き＼ば"
-      },
-      {
-         "title": "勢い",
-         "reveal": "いきお＼い"
-      },
-      {
-         "title": "貫く",
-         "reveal": "つらぬ＼く"
-      },
-      {
-         "title": "これ・この・ここ・あれ・…",
-         "reveal": "これ￣"
-      },
-      {
-         "title": "黄身",
-         "reveal": "きみ￣"
-      },
-      {
-         "title": "殻",
-         "reveal": "から＼"
-      },
-      {
-         "title": "売る",
-         "reveal": "うる￣"
-      },
-      {
-         "title": "売れる",
-         "reveal": "うれる￣"
-      },
-      {
-         "title": "現れる・表れる",
-         "reveal": "あらわれ＼る"
-      },
-      {
-         "title": "倒す",
-         "reveal": "たお＼す"
-      },
-      {
-         "title": "串",
-         "reveal": "くし＼"
-      },
-      {
-         "title": "安宿",
-         "reveal": "やすやど￣"
-      },
-      {
-         "title": "露骨",
-         "reveal": "ろこつ￣"
-      },
-      {
-         "title": "即座",
-         "reveal": "そ＼くざ"
-      },
-      {
-         "title": "脅す",
-         "reveal": "おどす￣"
-      },
-      {
-         "title": "縄張り",
-         "reveal": "なわばり￣・なわばり＼"
-      },
-      {
-         "title": "潤う",
-         "reveal": "うるお＼う"
-      },
-      {
-         "title": "しばらく",
-         "reveal": "しば＼らく"
-      },
-      {
-         "title": "野宿",
-         "reveal": "の＼じゅく"
-      },
-      {
-         "title": "荷物",
-         "reveal": "に＼もつ"
-      },
-      {
-         "title": "整理",
-         "reveal": "せ＼いり"
-      },
-      {
-         "title": "実際",
-         "reveal": "じっさい￣"
-      },
-      {
-         "title": "儀式",
-         "reveal": "ぎ＼しき"
-      },
-      {
-         "title": "教祖",
-         "reveal": "きょ＼うそ"
-      },
-      {
-         "title": "能力",
-         "reveal": "の＼うりょく"
-      },
-      {
-         "title": "迷子",
-         "reveal": "ま＼いご"
-      },
-      {
-         "title": "返事",
-         "reveal": "へんじ＼"
-      },
-      {
-         "title": "文章",
-         "reveal": "ぶ＼んしょう"
-      },
-      {
-         "title": "区別",
-         "reveal": "く＼べつ"
-      },
-      {
-         "title": "そのとき",
-         "reveal": "そのと＼き・そのとき＼"
-      },
-      {
-         "title": "人物",
-         "reveal": "じ＼んぶつ"
-      },
-      {
-         "title": "無口",
-         "reveal": "む＼くち"
-      },
-      {
-         "title": "レベル",
-         "reveal": "レ＼ベル・レベル￣"
-      },
-      {
-         "title": "布",
-         "reveal": "ぬの￣"
-      },
-      {
-         "title": "首",
-         "reveal": "くび￣"
-      },
-      {
-         "title": "傾ぐ",
-         "reveal": "かし＼ぐ"
-      },
-      {
-         "title": "擦る",
-         "reveal": "こす＼る"
-      },
-      {
-         "title": "用いる",
-         "reveal": "もちい＼る・もちいる￣"
-      },
-      {
-         "title": "縮む",
-         "reveal": "ちぢむ￣"
-      },
-      {
-         "title": "縮める",
-         "reveal": "ちぢめる￣"
-      },
-      {
-         "title": "拾う",
-         "reveal": "ひろう￣"
-      },
-      {
-         "title": "躊躇う",
-         "reveal": "ためら＼う"
-      },
-      {
-         "title": "頷く",
-         "reveal": "うなず＼く・うなずく￣"
-      },
-      {
-         "title": "入る",
-         "reveal": "は＼いる"
-      },
-      {
-         "title": "美人",
-         "reveal": "び＼じん・びじん￣"
-      }
-   ]
+    "name": "日本語アクセント",
+    "flashcards": [
+        {
+            "title": "こと（事）",
+            "reveal": "こと＼・こ＼と"
+        },
+        {
+            "title": "やつ（奴）",
+            "reveal": "や＼つ"
+        },
+        {
+            "title": "もの（物・者）",
+            "reveal": "もの＼"
+        },
+        {
+            "title": "音楽",
+            "reveal": "お＼んがく・おんがく￣"
+        },
+        {
+            "title": "とき（時）",
+            "reveal": "とき＼"
+        },
+        {
+            "title": "先",
+            "reveal": "さき￣"
+        },
+        {
+            "title": "道",
+            "reveal": "みち￣"
+        },
+        {
+            "title": "進める",
+            "reveal": "すすめる￣"
+        },
+        {
+            "title": "却下",
+            "reveal": "きゃ＼っか"
+        },
+        {
+            "title": "敵",
+            "reveal": "てき￣"
+        },
+        {
+            "title": "たまご（卵・玉子）",
+            "reveal": "たま＼ご・たまご￣"
+        },
+        {
+            "title": "様子",
+            "reveal": "ようす￣"
+        },
+        {
+            "title": "気付く",
+            "reveal": "きづ＼く"
+        },
+        {
+            "title": "向く",
+            "reveal": "むく￣"
+        },
+        {
+            "title": "向かう",
+            "reveal": "むかう￣"
+        },
+        {
+            "title": "牙",
+            "reveal": "き＼ば"
+        },
+        {
+            "title": "勢い",
+            "reveal": "いきお＼い"
+        },
+        {
+            "title": "貫く",
+            "reveal": "つらぬ＼く"
+        },
+        {
+            "title": "これ・この・ここ・あれ・…",
+            "reveal": "これ￣"
+        },
+        {
+            "title": "黄身",
+            "reveal": "きみ￣"
+        },
+        {
+            "title": "殻",
+            "reveal": "から＼"
+        },
+        {
+            "title": "売る",
+            "reveal": "うる￣"
+        },
+        {
+            "title": "売れる",
+            "reveal": "うれる￣"
+        },
+        {
+            "title": "現れる・表れる",
+            "reveal": "あらわれ＼る"
+        },
+        {
+            "title": "倒す",
+            "reveal": "たお＼す"
+        },
+        {
+            "title": "串",
+            "reveal": "くし＼"
+        },
+        {
+            "title": "安宿",
+            "reveal": "やすやど￣"
+        },
+        {
+            "title": "露骨",
+            "reveal": "ろこつ￣"
+        },
+        {
+            "title": "即座",
+            "reveal": "そ＼くざ"
+        },
+        {
+            "title": "脅す",
+            "reveal": "おどす￣"
+        },
+        {
+            "title": "縄張り",
+            "reveal": "なわばり￣・なわばり＼"
+        },
+        {
+            "title": "潤う",
+            "reveal": "うるお＼う"
+        },
+        {
+            "title": "しばらく",
+            "reveal": "しば＼らく"
+        },
+        {
+            "title": "野宿",
+            "reveal": "の＼じゅく"
+        },
+        {
+            "title": "荷物",
+            "reveal": "に＼もつ"
+        },
+        {
+            "title": "整理",
+            "reveal": "せ＼いり"
+        },
+        {
+            "title": "実際",
+            "reveal": "じっさい￣"
+        },
+        {
+            "title": "儀式",
+            "reveal": "ぎ＼しき"
+        },
+        {
+            "title": "教祖",
+            "reveal": "きょ＼うそ"
+        },
+        {
+            "title": "能力",
+            "reveal": "の＼うりょく"
+        },
+        {
+            "title": "迷子",
+            "reveal": "ま＼いご"
+        },
+        {
+            "title": "返事",
+            "reveal": "へんじ＼"
+        },
+        {
+            "title": "文章",
+            "reveal": "ぶ＼んしょう"
+        },
+        {
+            "title": "区別",
+            "reveal": "く＼べつ"
+        },
+        {
+            "title": "そのとき",
+            "reveal": "そのと＼き・そのとき＼"
+        },
+        {
+            "title": "人物",
+            "reveal": "じ＼んぶつ"
+        },
+        {
+            "title": "無口",
+            "reveal": "む＼くち"
+        },
+        {
+            "title": "レベル",
+            "reveal": "レ＼ベル・レベル￣"
+        },
+        {
+            "title": "布",
+            "reveal": "ぬの￣"
+        },
+        {
+            "title": "首",
+            "reveal": "くび￣"
+        },
+        {
+            "title": "傾ぐ",
+            "reveal": "かし＼ぐ"
+        },
+        {
+            "title": "擦る",
+            "reveal": "こす＼る"
+        },
+        {
+            "title": "用いる",
+            "reveal": "もちい＼る・もちいる￣"
+        },
+        {
+            "title": "縮む",
+            "reveal": "ちぢむ￣"
+        },
+        {
+            "title": "縮める",
+            "reveal": "ちぢめる￣"
+        },
+        {
+            "title": "拾う",
+            "reveal": "ひろう￣"
+        },
+        {
+            "title": "躊躇う",
+            "reveal": "ためら＼う"
+        },
+        {
+            "title": "頷く",
+            "reveal": "うなず＼く・うなずく￣"
+        },
+        {
+            "title": "入る",
+            "reveal": "は＼いる"
+        },
+        {
+            "title": "美人",
+            "reveal": "び＼じん・びじん￣"
+        }
+    ]
 }
